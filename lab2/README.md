@@ -18,6 +18,7 @@ I created 2 Vms, one for Rabbit and the other for Backend/frontend
 As Azure won't let me have 4 IPs.
 
 Front & Back : https://github.com/SoufianeMouss/Algonquin_Pet_Store_Front_Back
+
 RabbitMQ : https://github.com/SoufianeMouss/Algonquin_Pet_Store_Rabbit
 
 ## Challenges
