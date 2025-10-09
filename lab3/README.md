@@ -23,3 +23,7 @@ PS : That's what led me to submit late
 One of the main reasons is to use each service separately, and the most important thing is the scaling
 ### Importance for environment variables in a cloud environment
 Environment variables are important in the cloud because they let us separate configuration and secrets from the code, in line with the 12-Factor App principles for building cloud-native applications.
+### Links to GitHub
+Order-service : https://github.com/SoufianeMouss/Lab3-Order-Service-Pet-Store
+Product-service : https://github.com/SoufianeMouss/Lab3-Product-Service-Pet-Store
+Front-view: https://github.com/SoufianeMouss/Lab3-Front-View-Pet-Store
