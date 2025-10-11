@@ -1,7 +1,7 @@
 # Lab 4 - CST8915 Full-stack Cloud-native Development: Introduction to Docker
 
 ## Video
-(Lab 4 Video)[https://www.awesomescreenshot.com/video/45169094?key=cfaf421b989292053dbc736648c084f1]
+[Lab 4 Video](https://www.awesomescreenshot.com/video/45169094?key=cfaf421b989292053dbc736648c084f1)
 ## The main differences between a Docker image and a Docker container?
 The Docker image is a lightweight package that includes everything we need to run an application such as libraries, runtime. we create it from Dockerfile and it's built in layers.
 In the other hand a docker container is a running instance of a docker image. When we run it Docker add a writable layer on top of the image layers which make the container to run
