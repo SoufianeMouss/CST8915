@@ -1,8 +1,8 @@
 # Lab 5 - CST8915 Full-stack Cloud-native Development: Containerizing the Algonquin Pet Store with Docker
 
-# Video
+## Video
 [Lab 5 Video](https://www.awesomescreenshot.com/video/45339363?key=73dcd4b83e294a03dd7045c5247832bd)
-# Docker Compose YAML File
+## Docker Compose YAML File
 ```
 # Specifies the version of Docker Compose format being used
 version: '3'
